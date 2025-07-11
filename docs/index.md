@@ -3,4 +3,5 @@
 
 Znajdziesz tutaj wszystkie moje projekty z takich dziedzin jak: analiza danych, uczenie maszynowe czy AI. 
 
-Miłego użytkowania!
+W razie pytań zapraszam do kontaktu: 
+piobpc@gmail.com 

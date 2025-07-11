@@ -1,7 +1,7 @@
 site_name: Moje projekty
 site_author: Piotr Bednarski
 site_description: >-
-    Portfolio moich wspaniałych projektów z Data Science, AI i ML
+    Portfolio moich projektów z Data Science, AI i ML
 
 repo_name: piobpc/portfolio
 repo_url: https://github.com/piobpc/portfolio
@@ -11,8 +11,7 @@ theme:
 
 nav:
 - Strona Domowa: index.md
-- Obecny projekt:
-  
-- Poprzednie projekty:
+#- Obecny projekt:
+- Zrealizowane projekty:
   - "Iris": iris/index.md
   - "Titanic": titanic/index.md
