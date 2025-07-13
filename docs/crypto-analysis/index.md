@@ -1,12 +1,12 @@
-# Analiza Danych EDA Titanica: Eksploracja Domenowa
+# A basic study & analysis of cryptocurrencies regulations around the world
 
-Analiza EDA Titanica skupia się na przyjrzeniu się bliżej danym dotyczącym pasażerów słynnego statku. W tym projekcie zgłębimy lepiej potencjalne przyczyny bądź czynniki, które mogły mieć wpływ na przeżywalność.
+This project focus on explaining what are the major factors may influence on the different governmental approach towards cryptocurrencies around the world. This analysis was proceeded in March 2020 during PhD level studies and presents some interesting observations.
 
-<a href="titanic_eda_raport_PB.zip" download class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="Cryptocurrency_REG_Analysis.zip" download class="md-button md-button--primary">Pobierz raport</a>
 
 <iframe
     id="content"
-    src="titanic_eda_raport_PB.html"
+    src="Cryptocurrency_REG_Analysis.pdf"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>

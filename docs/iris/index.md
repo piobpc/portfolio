@@ -1,8 +1,8 @@
-# Analiza Danych EDA Irysów: Eksploracja Domenowa
+# Data Analysis on Iris flowers: EDA 
 
-Zapraszamy do zapoznania się z projektem EDA  który przenosi nas w świat analizy danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę. 
+I invite you to explore this project, which takes us into the world of iris data analysis using domain exploration (EDA). This project is packed with insights and interesting observations that shed new light on these beautiful flowers. Prepare for a fascinating data journey that will surely enrich your knowledge.
 
-<a href="irysy_eda_raport_PB.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="irysy_eda_raport_PB.zip" download class="md-button md-button--primary">Download The Notebook</a>
 
 <iframe
     id="content"

@@ -1,7 +1,10 @@
 
-#### Witaj na mojej stronie! 
+#### Welcome on my website! 
 
-Znajdziesz tutaj wszystkie moje projekty z takich dziedzin jak: analiza danych, uczenie maszynowe czy AI. 
+You will find here various kind of projects such as: Data Science, Machine Learning or AI.  
 
-W razie pytań zapraszam do kontaktu: 
+In case of any questions, do not hesitate to reach me out by my e-mail: 
 piobpc@gmail.com 
+
+Best regards,
+Piotr Bednarski

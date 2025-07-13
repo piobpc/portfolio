@@ -1,17 +1,47 @@
-site_name: Moje projekty
+site_name: My projects
 site_author: Piotr Bednarski
 site_description: >-
-    Portfolio moich projektów z Data Science, AI i ML
+  My Projects Portfolio regarding Data Science, AI i ML
 
 repo_name: piobpc/portfolio
 repo_url: https://github.com/piobpc/portfolio
 
 theme:
   name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: lime
+  font:
+    text: Roboto
+    code: Fira Code
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs
+    - navigation.sections
+    - header.autohide
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - content.tabs.link
+
+plugins:
+  - search
 
 nav:
-- Strona Domowa: index.md
-#- Obecny projekt:
-- Zrealizowane projekty:
-  - "Iris": iris/index.md
-  - "Titanic": titanic/index.md
+  - Main Page: index.md
+  - Executed Projects:
+      - Iris: iris/index.md
+      - Titanic: titanic/index.md
+      - My-own-chat: my-own-chat/index.md
+      - Language helper: language_helper/index.md
+      - Find-friends App: find-friends_app/index.md
+      - Audio Notes: audio_notes/index.md
+      - Happiness Predictor: happiness_predictor/index.md
