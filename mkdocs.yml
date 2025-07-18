@@ -1,7 +1,7 @@
-site_name: My projects
+site_name: PIOTR BEDNARSKI
 site_author: Piotr Bednarski
 site_description: >-
-  My Projects Portfolio regarding Data Science, AI i ML
+  My Projects' Portfolio for Data Science, AI & ML
 
 repo_name: piobpc/portfolio
 repo_url: https://github.com/piobpc/portfolio
@@ -23,7 +23,6 @@ theme:
   features:
     - navigation.instant
     - navigation.top
-    - navigation.tabs
     - navigation.sections
     - header.autohide
     - search.suggest
@@ -38,10 +37,11 @@ plugins:
 nav:
   - Main Page: index.md
   - Executed Projects:
-      - Iris: iris/index.md
-      - Titanic: titanic/index.md
-      - My-own-chat: my-own-chat/index.md
-      - Language helper: language_helper/index.md
-      - Find-friends App: find-friends_app/index.md
-      - Audio Notes: audio_notes/index.md
       - Happiness Predictor: happiness_predictor/index.md
+      - Language helper: language_helper/index.md
+      - Audio Notes: audio_notes/index.md
+      - Find-friends App: find-friends_app/index.md
+      - My-own-chat: my-own-chat/index.md
+      - Titanic: titanic/index.md
+      - Iris: iris/index.md
+      - Analysis of crypto-regulations: crypto-analysis/index.md

@@ -1,8 +1,8 @@
-# Analiza Danych EDA Titanica: Eksploracja Domenowa
+# Data Analisys of Titanic passengers: EDA
 
-Analiza EDA Titanica skupia się na przyjrzeniu się bliżej danym dotyczącym pasażerów słynnego statku. W tym projekcie zgłębimy lepiej potencjalne przyczyny bądź czynniki, które mogły mieć wpływ na przeżywalność.
+The Titanic EDA analysis focuses on the most famous ship in the history. In this case, it delves deeper into the factors that influenced survival ratio of the passengers. 
 
-<a href="titanic_eda_raport_PB.zip" download class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic_eda_raport_PB.zip" download class="md-button md-button--primary">Download The Notebook</a>
 
 <iframe
     id="content"

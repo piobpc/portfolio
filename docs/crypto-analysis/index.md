@@ -1,8 +1,8 @@
 # A basic study & analysis of cryptocurrencies regulations around the world
 
-This project focus on explaining what are the major factors may influence on the different governmental approach towards cryptocurrencies around the world. This analysis was proceeded in March 2020 during PhD level studies and presents some interesting observations.
+This project focus on explaining what are the major factors may influence on the different governmental approach towards cryptocurrencies around the world. The analysis was proceeded in March 2020 during PhD level studies and presents some interesting observations on crypto-regulations. Feel free to download it!
 
-<a href="Cryptocurrency_REG_Analysis.zip" download class="md-button md-button--primary">Pobierz raport</a>
+<a href="Cryptocurrency_REG_Analysis.zip" download class="md-button md-button--primary">Download The Report</a>
 
 <iframe
     id="content"
