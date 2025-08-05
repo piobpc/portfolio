@@ -36,12 +36,17 @@ plugins:
 
 nav:
   - Main Page: index.md
-  - Executed Projects:
+  - Executed AI/ML Projects:
       - Happiness Predictor: happiness_predictor/index.md
-      - Language helper: language_helper/index.md
+      - Language Helper: language_helper/index.md
       - Audio Notes: audio_notes/index.md
       - Find-friends App: find-friends_app/index.md
       - My-own-chat: my-own-chat/index.md
-      - Titanic: titanic/index.md
-      - Iris: iris/index.md
+  
+  - Executed Power BI Projects:
+      - Data Science Jobs Dashboard: ds_jobs_dashboard/index.md
+
+  - Executed Data Analysis Projects:
+      - Titanic Data Analysis: titanic/index.md
+      - Iris Data Analysis: iris/index.md
       - Analysis of crypto-regulations: crypto-analysis/index.md
